@@ -28,7 +28,7 @@ This Django-based web application allows users to upload CSV files, perform data
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/your-username/csv-analysis.git
+    git clone https://github.com/PrathmeshChurhe/Django-Application-For-CSV-Analysis.git
     cd csv-analysis
     ```
 
@@ -43,6 +43,12 @@ This Django-based web application allows users to upload CSV files, perform data
 
      ```sh
      conda create -n env_name python==3.10 -y
+     ```
+
+     Activate conda env
+
+     ```sh
+     conda activate env_name
      ```
 
 4. **Install dependencies**:
